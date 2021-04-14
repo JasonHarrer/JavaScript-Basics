@@ -4,10 +4,18 @@
 }
 
 body {
+    background-color: gray;
+    padding: 50px 0px;
+}
+
+.content-box {
     align-items: center;
     background-color: #1b3268;
     width: 970px;
     padding: 5px;
+    border-width: 0px 5px 5px;
+    border-style: solid;
+    border-color: white;
 }
 
 .header {
